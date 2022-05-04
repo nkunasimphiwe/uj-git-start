@@ -1,0 +1,3 @@
+let i = 3
+let be = 4
+console.log(i + be)
